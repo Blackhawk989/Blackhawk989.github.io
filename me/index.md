@@ -2,21 +2,16 @@
 layout: about
 ---
 
-My name is Ian Bouchard, a.k.a Corb3nik. I'm currently a student at Laval University (Canada),
-studying a bachelor's degree in computer science.
+My name is Daniel Macias, 4th year Computer Engineering Student at Cal Poly San Luis Obispo.
 
-I love CTFs, I do almost every online CTF available on [ctftime.org](http://ctftime.org). My main focus is on web application security for the CTF team [OpenToAll](https://opentoallctf.github.io/). I'm also learning reverse engineering and
-binary exploitation on the side.
+I am currently taking Computer Security, and this page will host the Mastery Extension writeup for Narnia on overthewire.org.
 
-When I'm not doing CTFs, I usually work on wargames and bug bounties. I also post writeups for
-challenges from time to time.
-
-Here are some wargames I train on :
-  - [Ringzer0 Team CTF](http://ringzer0team.com) (General Purpose Wargames)
-  - [Root-me](https://www.root-me.org) (General Purpose Wargames)
-  - [websec.fr](https://websec.fr/) (Web-oriented Wargames)
-  - [RPISEC MBE](https://github.com/RPISEC/MBE) (Binary Exploitation Course)
-  - [PentestIt](https://lab.pentestit.ru/) (Pentest Lab)
+Wargames I've done in CPE 321:
+  - [overthewire - Bandit](https://overthewire.org/wargames/bandit/) (General Purpose Wargames)
+  - [overthewire - Leviathan](https://overthewire.org/wargames/leviathan/) (General Purpose Wargames)
+  - [overthewire - Krypton](https://overthewire.org/wargames/krypton/) (Cryptographic Methods)
+  - [overthewire - Narnia](https://overthewire.org/wargames/narnia/) (Mastery Extension)
+  - [overthewire - Natas](https://overthewire.org/wargames/natas/) (Web-Based)
+  - [Microcorruption](https://microcorruption.com/) (Assembly)
 
 <br/>
-See you guys in the next CTF ;)
